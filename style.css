@@ -1,0 +1,15 @@
+body {
+    padding: 10px;
+}
+
+#btn_0, #btn_1, #btn_2,#btn_3, #restartBtn, #answerBtn{
+    min-width: 100%;
+    margin-bottom:10px;
+    display: block;
+}
+
+@media (min-width: 576px) {
+    #btn_0, #btn_1, #btn_2,#btn_3, #restartBtn, #answerBtn {
+        min-width: 521.6px;
+    }
+ }
